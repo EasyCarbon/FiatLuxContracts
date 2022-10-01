@@ -11,7 +11,7 @@ import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 import "erc721a/contracts/ERC721A.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
 
-contract FiatLux is Ownable, ReentrancyGuard, ERC721A{
+contract fiatLux is Ownable, ReentrancyGuard, ERC721A{
     uint256 public MAX_NFT_QUANTITY = 1000; // COLLECTION SIZE
     uint256 public NFT_PRICE = 0; // PER NFT COST: 0 AVAX (FOR DEMO PURPOSES)
     bool public IS_PAUSED = false;
