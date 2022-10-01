@@ -1,0 +1,26 @@
+{
+  "description": "EasyCarbon NFT",
+  "image": "ipfs://QmVBHZWisv2rLfT8zJDxPHLanHwc8p8Hh2xBCjUyQYbbhA",
+  "retirement-id": "n/a",
+  "name": "Forest Fire in Datça",
+  "attributes": [
+    {
+      "trait_type": "Biomass-Index", 
+      "value": "0.186"
+    }, 
+    {
+      "trait_type": "Reforestation-Index", 
+      "value": "0.1"
+    },
+    {
+      "display_type": "date", 
+      "trait_type": "fire-start-date", 
+      "value": 1546360800
+    },
+    {
+      "display_type": "date", 
+      "trait_type": "fire-end-date",
+      "value": 1546433915
+    }
+  ]
+}
